@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# hello-wrold
+Learning how to use GitHub
+
+Hello, I am just learning how to use GitHub.
+I hope to be able to use this service to share ideas,
+and learn new skills.
+>>>>>>> 4914bb24a1610dedc03ca3e34e9d85a590ac310d
