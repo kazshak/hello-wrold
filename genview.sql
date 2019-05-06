@@ -1,3 +1,4 @@
+-- SQL query for genview
 SELECT [cstmRunResults].[(RunData) FiscalYear] AS [FiscalYear],
   CASE WHEN (([cstmRunResults].[(Variables) VariableDisplayName]='CAPACITY @PEAKHR')
        OR ([cstmRunResults].[(Variables) VariableDisplayName]='PEAKCAP @PEAKHR')
